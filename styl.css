@@ -1,0 +1,100 @@
+/*body {
+    background-color: blueviolet;color: #000000;
+
+}
+
+/*p{
+    padding: 10px;
+}
+.browser{
+    background-color: aquamarine;
+}
+#popular{
+    font-weight: bold;
+}
+input[type=text]{
+    width: 300px;
+}
+/*child selector*/
+/*ul > li{
+    padding: 20px;
+    border:10px solid red
+}*/
+
+/*ol li {
+    color: blue;
+}
+ol li{
+    color: deeppink;
+}
+li {
+    color: brown;
+}*/
+/*div li {
+    color: blueviolet !important;
+}*/
+/*div li {
+   background:AEDEFC ;
+    color:F875AA ;
+}
+div ol li {
+    color: chartreuse;
+}*/
+/*.fire {
+    width: 250px;
+    height: 150px;
+    border-style: double;
+    border-radius: 15;
+    border-color: red;
+    background-color: bisque;
+ }*/
+.box {
+    width: 250px;
+    height: 150px;
+    border-style:double ;
+   
+
+}
+ .one{ border-radius: 18;
+    border-color: blue;
+    background-color: chartreuse;
+   }
+ .two{
+    border-color:yellowgreen;
+    background-color:brown;
+    position: relative;
+    left: 0px;
+    top: 50px;
+ }
+ .three{
+    border-color: rebeccapurple;
+    background-color:red ;
+    position:relative;
+    left: 0%;
+    bottom: 150px;
+ }
+ .four{
+    border-color: gray;
+    background-color:azure ;
+    position: relative;
+    
+
+ }
+.fix_my_position{
+    background-color: cyan;
+    position: fixed;
+    top: 0px;
+
+}
+ /*p {
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+ }
+ 
+ span {
+    width: 200px;
+    background-color: blue;
+    display: inline;
+ }*/
+ 
